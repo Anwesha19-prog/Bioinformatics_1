@@ -32,19 +32,11 @@ You are given the adjacency list of a directed graph that has an Eulerian cycle.
 A text file (input.txt) containing the adjacency list of a directed graph.
 
 Each line has the format:
-node: neighbor1 neighbor2 ...
-Example:
-0: 3
-1: 0
-2: 1 6
-3: 2
-4: 2
-5: 4
-6: 5 8
-7: 9
-8: 7
-9: 6
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/fbf5c915-d62d-4918-b6c5-64d68ba094fe" />
+
+<img width="98" alt="image" src="https://github.com/user-attachments/assets/508a9371-8274-49cb-8af2-234b0ed0a15d" />
+
 
 **Output Format**
 A text file (output.txt) containing a space-separated list of nodes representing one Eulerian cycle.
-6 8 7 9 6 5 4 2 1 0 3 2 6
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/fc301362-4c70-489e-9145-36f85891ce4f" />
