@@ -1,6 +1,7 @@
 **Bioinformatics_1-Eulerian-Cycle-Problem-Genome-Sequencing**
 **README Eulerian Cycle Problem Solver (Python)**
 
+## Author: Dr. Anwesha Sarkar
 
 **Problem Overview:**
 In graph theory, an Eulerian cycle is a cycle in a directed graph that visits every edge exactly once and returns to the starting node. For a graph to have an Eulerian cycle:
