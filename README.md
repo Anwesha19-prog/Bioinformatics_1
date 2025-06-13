@@ -1,7 +1,7 @@
 **Eulerian Cycle Problem Solver (Python)**
 
 
-**Problem Overview**
+**Problem Overview:**
 In graph theory, an Eulerian cycle is a cycle in a directed graph that visits every edge exactly once and returns to the starting node. For a graph to have an Eulerian cycle:
 
 Every node must have the same number of incoming and outgoing edges (i.e., in-degree = out-degree).
@@ -25,7 +25,7 @@ Tour planning (e.g., the classic Königsberg bridge problem)
 
 In bioinformatics, Eulerian cycles allow us to reconstruct a sequence (like DNA) from overlapping fragments (k-mers), making this a foundational problem in computational biology.
 
-**Problem Statement**
+**Problem Statement:**
 You are given the adjacency list of a directed graph that has an Eulerian cycle. Your task is to compute one possible Eulerian cycle in the graph and return the sequence of nodes in the order they are visited.
 
 **Input Format**
