@@ -1,4 +1,5 @@
-**Eulerian Cycle Problem Solver (Python)**
+**Bioinformatics_1-Eulerian-Cycle-Problem-Genome-Sequencing**
+**README Eulerian Cycle Problem Solver (Python)**
 
 
 **Problem Overview:**
